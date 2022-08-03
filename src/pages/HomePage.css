@@ -1,0 +1,25 @@
+.homeHeadContainer {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.itemContainer {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+}
+
+.err {
+  text-align: center;
+}
+
+.itemBox2 {
+  background-color: antiquewhite;
+  border-radius: 8px;
+  border-width: 1px;
+  margin: 10px;
+  padding: 10px;
+  width: 50%;
+  max-width: 500px;
+}
